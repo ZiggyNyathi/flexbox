@@ -1,0 +1,95 @@
+.flexbox-container {
+  display :flex;
+  justify-content: space-evenly;
+  align-items: center;
+  
+}
+
+.row1 {
+  display: flex;
+  flex-basis: 100%;
+  justify-content: space-between;
+  margin: 3px;
+}
+
+
+.flexbox-item-1 {
+
+  width: 500px;
+  height: 185px;
+  
+  border: 3px solid rgb(73, 73, 133);
+  background-color: rgb(68, 42, 8);
+}
+
+.flexbox-item-2 {
+
+  width: 500px;
+  height: 185px;
+  
+  border: 3px solid rgb(73, 73, 133);
+  background-color: rgb(194, 142, 75);
+}
+
+.flexbox-item-3 {
+
+  width: 500px;
+  height: 185px;
+ 
+  border: 3px solid rgb(73, 73, 133);
+  background-color: rgb(116, 93, 64);
+}
+.flexbox-container2 {
+  display :flex;
+  justify-content: space-evenly;
+  align-items:center;
+  margin:3px;
+  
+
+}
+
+.row2 {
+  display: flex;
+  flex-basis: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin: 3px;
+}
+
+
+
+.flexbox-item-4 {
+  width: 500px;
+  height: 530px;
+  border: 3px solid rgb(73, 73, 133);
+  background-color: rgb(165, 110, 39);
+}
+
+.flexbox-item-5 {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  border: 3px solid rgb(73, 73, 133);
+  background-color: rgb(168, 107, 26);
+}
+
+.flexbox-item-6 {
+  width: 500px;
+  height: 530px;
+  border: 3px solid rgb(73, 73, 133);
+  background-color: rgb(107, 72, 27);
+}
+
+.flexbox-container2 {
+  display :flex;
+  justify-content: space-evenly;
+  height: 182px;
+  margin: 3px;
+  border:3px solid rgb(190, 128, 128);
+  background-color: rgb(218, 190, 157);
+
+  
+
+}
+
+
